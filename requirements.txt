@@ -1,0 +1,9 @@
+autogluon==0.5.2
+lightautoml==0.3.7.1
+lightgbm==3.3.3
+numpy==1.22.4
+pandas==1.4.3
+seaborn==0.11.2
+scikit-learn==1.0.2
+scipy==1.7.3
+
